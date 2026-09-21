@@ -1,6 +1,6 @@
 const users = {
   admin: {
-    password: '9999',
+    password: '123',
     locked: false,
   },
   locked_user: {
